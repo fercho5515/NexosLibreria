@@ -1,0 +1,35 @@
+body {
+  background:white;
+}
+
+
+
+#global {
+  width: 65%;
+  margin: 10px auto 0;
+  background: #ebebeb ;
+  box-shadow: 0 0 2px grey;
+}
+
+.headerCol{
+  background: #ce1e28;
+  margin-top: 15px;
+  color: white;
+  border: 0;
+  padding-top: 20px;
+}
+
+.footerCol {
+  color: #66797D;
+  border:0px;
+}
+
+.titulo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.colorfooter{
+  background:#ce1e28;
+  color:#f5f5f5
+}
